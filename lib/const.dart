@@ -1,0 +1,13 @@
+import 'package:flutter/material.dart';
+const Red = Color(0xffFF3D00);
+const Green = Color(0xff00C569);
+const Orange = Color(0xffFFB900);
+const Grey = Color(0xFF929292);
+const double fontXLarge=30;
+const double fontLarge=18;
+const double fonttitel=14;
+const double fontSmall=13;
+const double DPadding=10;
+const double fontsubtitel=14;
+const double SizedBoxheight=10;
+const double RadiusCircular=30;
